@@ -1,3 +1,5 @@
-@Library('Jenkinsshared')_
-evenOrOdd(currentBuild.getNumber())
+@Library('Jenkinsshared') _
+#evenOrOdd(currentBuild.getNumber())
+sample {
+}
 
